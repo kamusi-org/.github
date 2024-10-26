@@ -1,2 +1,0 @@
-# .github
-wasifu wa kamusi
